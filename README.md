@@ -93,7 +93,8 @@ fun_fact:    "I love tech, and tech loves me back 😄"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hartej46&show_icons=true&hide_border=false&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=FF00E5&count_private=true&include_all_commits=true&card_width=420" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hartej46&show_icons=true&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=FF00E5&card_width=420" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartej46&layout=compact&hide_border=false&border_color=FF00E5&bg_color=0D1117&title_color=FF00E5&text_color=C9D1D9&langs_count=8&card_width=320" />
 
 <br/><br/>
@@ -154,6 +155,8 @@ fun_fact:    "I love tech, and tech loves me back 😄"
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.&author=Arthur%20C.%20Clarke" />
+
+
 
 <br/>
 
