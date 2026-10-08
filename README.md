@@ -1,9 +1,9 @@
 <div align="center">
 
-<picture>
+<a href="https://hartej.vercel.app"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" width="100%" alt="Hartejsingh Sandhu - BTech CSE (AI & ML), Pune">
-</picture>
+</picture></a>
 
 </div>
 
