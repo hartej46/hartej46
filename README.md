@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hartej46&show_icons=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=e6edf3&ring_color=58a6ff&card_width=420">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hartej46&show_icons=true&hide_border=false&border_color=1f2328&bg_color=ffffff&title_color=0969da&icon_color=bf8700&text_color=1f2328&ring_color=0969da&card_width=420" alt="GitHub stats">
 </picture>
@@ -87,7 +87,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartej46&layout=compact&hide_border=false&border_color=1f2328&bg_color=ffffff&title_color=0969da&text_color=1f2328&langs_count=8&card_width=320" alt="Top languages">
 </picture>
 
-<br/><br/>
+<br/><br/> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hartej46&background=0D1117&border=30363D&ring=58A6FF&fire=E3B341&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=8B949E">
